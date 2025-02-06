@@ -1,0 +1,803 @@
+numeroPokedex,nome,tipo,total,hp,ataque,defesa,spAtaque,spDefesa,velocidade,geracao,ehLendario
+801
+1,Bulbasaur,grama veneno,318,45,49,49,65,65,45,1,0
+2,Ivysaur,grama veneno,405,60,62,63,80,80,60,1,0
+3,Venusaur,grama veneno,625,80,100,123,122,120,80,1,0
+4,Charmander,fogo,309,39,52,43,60,50,65,1,0
+5,Charmeleon,fogo,405,58,64,58,80,65,80,1,0
+6,Charizard,fogo voador,634,78,104,78,159,115,100,1,0
+7,Squirtle,agua,314,44,48,65,50,64,43,1,0
+8,Wartortle,agua,405,59,63,80,65,80,58,1,0
+9,Blastoise,agua,630,79,103,120,135,115,78,1,0
+10,Caterpie,inseto,195,45,30,35,20,20,45,1,0
+11,Metapod,inseto,205,50,20,55,25,25,30,1,0
+12,Butterfree,inseto voador,395,60,45,50,90,80,70,1,0
+13,Weedle,inseto veneno,195,40,35,30,20,20,50,1,0
+14,Kakuna,inseto veneno,205,45,25,50,25,25,35,1,0
+15,Beedrill,inseto veneno,495,65,150,40,15,80,145,1,0
+16,Pidgey,normal voador,251,40,45,40,35,35,56,1,0
+17,Pidgeotto,normal voador,349,63,60,55,50,50,71,1,0
+18,Pidgeot,normal voador,579,83,80,80,135,80,121,1,0
+19,Rattata,normal sombrio,253,30,56,35,25,35,72,1,0
+20,Raticate,normal sombrio,413,75,71,70,40,80,77,1,0
+21,Spearow,normal voador,262,40,60,30,31,31,70,1,0
+22,Fearow,normal voador,442,65,90,65,61,61,100,1,0
+23,Ekans,veneno,288,35,60,44,40,54,55,1,0
+24,Arbok,veneno,448,60,95,69,65,79,80,1,0
+25,Pikachu,eletrico,320,35,55,40,50,50,90,1,0
+26,Raichu,eletrico,485,60,85,50,95,85,110,1,0
+27,Sandshrew,terra gelo,300,50,75,90,10,35,40,1,0
+28,Sandslash,terra gelo,450,75,100,120,25,65,65,1,0
+29,Nidoran♀,veneno,275,55,47,52,40,40,41,1,0
+30,Nidorina,veneno,365,70,62,67,55,55,56,1,0
+31,Nidoqueen,veneno terra,505,90,92,87,75,85,76,1,0
+32,Nidoran♂,veneno,273,46,57,40,40,40,50,1,0
+33,Nidorino,veneno,365,61,72,57,55,55,65,1,0
+34,Nidoking,veneno terra,505,81,102,77,85,75,85,1,0
+35,Clefairy,fada,323,70,45,48,60,65,35,1,0
+36,Clefable,fada,483,95,70,73,95,90,60,1,0
+37,Vulpix,fogo gelo,299,38,41,40,50,65,65,1,0
+38,Ninetales,fogo gelo,505,73,67,75,81,100,109,1,0
+39,Jigglypuff,normal fada,270,115,45,20,45,25,20,1,0
+40,Wigglytuff,normal fada,435,140,70,45,85,50,45,1,0
+41,Zubat,veneno voador,245,40,45,35,30,40,55,1,0
+42,Golbat,veneno voador,455,75,80,70,65,75,90,1,0
+43,Oddish,grama veneno,320,45,50,55,75,65,30,1,0
+44,Gloom,grama veneno,395,60,65,70,85,75,40,1,0
+45,Vileplume,grama veneno,490,75,80,85,110,90,50,1,0
+46,Paras,inseto grama,285,35,70,55,45,55,25,1,0
+47,Parasect,inseto grama,405,60,95,80,60,80,30,1,0
+48,Venonat,inseto veneno,305,60,55,50,40,55,45,1,0
+49,Venomoth,inseto veneno,450,70,65,60,90,75,90,1,0
+50,Diglett,terra terra,265,10,55,30,35,45,90,1,0
+51,Dugtrio,terra terra,425,35,100,60,50,70,110,1,0
+52,Meowth,normal sombrio,290,40,35,35,50,40,90,1,0
+53,Persian,normal sombrio,440,65,60,60,75,65,115,1,0
+54,Psyduck,agua,320,50,52,48,65,50,55,1,0
+55,Golduck,agua,500,80,82,78,95,80,85,1,0
+56,Mankey,lutador,305,40,80,35,35,45,70,1,0
+57,Primeape,lutador,455,65,105,60,60,70,95,1,0
+58,Growlithe,fogo,350,55,70,45,70,50,60,1,0
+59,Arcanine,fogo,555,90,110,80,100,80,95,1,0
+60,Poliwag,agua,300,40,50,40,40,40,90,1,0
+61,Poliwhirl,agua,385,65,65,65,50,50,90,1,0
+62,Poliwrath,agua lutador,510,90,95,95,70,90,70,1,0
+63,Abra,psiquico,310,25,20,15,105,55,90,1,0
+64,Kadabra,psiquico,400,40,35,30,120,70,105,1,0
+65,Alakazam,psiquico,600,55,50,65,175,105,150,1,0
+66,Machop,lutador,305,70,80,50,35,35,35,1,0
+67,Machoke,lutador,405,80,100,70,50,60,45,1,0
+68,Machamp,lutador,505,90,130,80,65,85,55,1,0
+69,Bellsprout,grama veneno,300,50,75,35,70,30,40,1,0
+70,Weepinbell,grama veneno,390,65,90,50,85,45,55,1,0
+71,Victreebel,grama veneno,490,80,105,65,100,70,70,1,0
+72,Tentacool,agua veneno,335,40,40,35,50,100,70,1,0
+73,Tentacruel,agua veneno,515,80,70,65,80,120,100,1,0
+74,Geodude,pedra terra,300,40,80,100,30,30,20,1,0
+75,Graveler,pedra terra,390,55,95,115,45,45,35,1,0
+76,Golem,pedra terra,495,80,120,130,55,65,45,1,0
+77,Ponyta,fogo,410,50,85,55,65,65,90,1,0
+78,Rapidash,fogo,500,65,100,70,80,80,105,1,0
+79,Slowpoke,agua psiquico,315,90,65,65,40,40,15,1,0
+80,Slowbro,agua psiquico,590,95,75,180,130,80,30,1,0
+81,Magnemite,eletrico ferro,325,25,35,70,95,55,45,1,0
+82,Magneton,eletrico ferro,465,50,60,95,120,70,70,1,0
+83,Farfetch'd,normal voador,377,52,90,55,58,62,60,1,0
+84,Doduo,normal voador,310,35,85,45,35,35,75,1,0
+85,Dodrio,normal voador,470,60,110,70,60,60,110,1,0
+86,Seel,agua,325,65,45,55,45,70,45,1,0
+87,Dewgong,agua gelo,475,90,70,80,70,95,70,1,0
+88,Grimer,veneno veneno,325,80,80,50,40,50,25,1,0
+89,Muk,veneno veneno,500,105,105,75,65,100,50,1,0
+90,Shellder,agua,305,30,65,100,45,25,40,1,0
+91,Cloyster,agua gelo,525,50,95,180,85,45,70,1,0
+92,Gastly,fantasma veneno,310,30,35,30,100,35,80,1,0
+93,Haunter,fantasma veneno,405,45,50,45,115,55,95,1,0
+94,Gengar,fantasma veneno,600,60,65,80,170,95,130,1,0
+95,Onix,pedra terra,385,35,45,160,30,45,70,1,0
+96,Drowzee,psiquico,328,60,48,45,43,90,42,1,0
+97,Hypno,psiquico,483,85,73,70,73,115,67,1,0
+98,Krabby,agua,325,30,105,90,25,25,50,1,0
+99,Kingler,agua,475,55,130,115,50,50,75,1,0
+100,Voltorb,eletrico,330,40,30,50,55,55,100,1,0
+101,Electrode,eletrico,490,60,50,70,80,80,150,1,0
+102,Exeggcute,grama psiquico,325,60,40,80,60,45,40,1,0
+103,Exeggutor,grama psiquico,530,95,105,85,125,75,45,1,0
+104,Cubone,terra,320,50,50,95,40,50,35,1,0
+105,Marowak,terra fogo,425,60,80,110,50,80,45,1,0
+106,Hitmonlee,lutador,455,50,120,53,35,110,87,1,0
+107,Hitmonchan,lutador,455,50,105,79,35,110,76,1,0
+108,Lickitung,normal,385,90,55,75,60,75,30,1,0
+109,Koffing,veneno,340,40,65,95,60,45,35,1,0
+110,Weezing,veneno,490,65,90,120,85,70,60,1,0
+111,Rhyhorn,terra pedra,345,80,85,95,30,30,25,1,0
+112,Rhydon,terra pedra,485,105,130,120,45,45,40,1,0
+113,Chansey,normal,450,250,5,5,35,105,50,1,0
+114,Tangela,grama,435,65,55,115,100,40,60,1,0
+115,Kangaskhan,normal,590,105,125,100,60,100,100,1,0
+116,Horsea,agua,295,30,40,70,70,25,60,1,0
+117,Seadra,agua,440,55,65,95,95,45,85,1,0
+118,Goldeen,agua,320,45,67,60,35,50,63,1,0
+119,Seaking,agua,450,80,92,65,65,80,68,1,0
+120,Staryu,agua,340,30,45,55,70,55,85,1,0
+121,Starmie,agua psiquico,520,60,75,85,100,85,115,1,0
+122,Mr. Mime,psiquico fada,460,40,45,65,100,120,90,1,0
+123,Scyther,inseto voador,500,70,110,80,55,80,105,1,0
+124,Jynx,gelo psiquico,455,65,50,35,115,95,95,1,0
+125,Electabuzz,eletrico,490,65,83,57,95,85,105,1,0
+126,Magmar,fogo,495,65,95,57,100,85,93,1,0
+127,Pinsir,inseto,600,65,155,120,65,90,105,1,0
+128,Tauros,normal,490,75,100,95,40,70,110,1,0
+129,Magikarp,agua,200,20,10,55,15,20,80,1,0
+130,Gyarados,agua voador,640,95,155,109,70,130,81,1,0
+131,Lapras,agua gelo,535,130,85,80,85,95,60,1,0
+132,Ditto,normal,288,48,48,48,48,48,48,1,0
+133,Eevee,normal,325,55,55,50,45,65,55,1,0
+134,Vaporeon,agua,525,130,65,60,110,95,65,1,0
+135,Jolteon,eletrico,525,65,65,60,110,95,130,1,0
+136,Flareon,fogo,525,65,130,60,95,110,65,1,0
+137,Porygon,normal,395,65,60,70,85,75,40,1,0
+138,Omanyte,pedra agua,355,35,40,100,90,55,35,1,0
+139,Omastar,pedra agua,495,70,60,125,115,70,55,1,0
+140,Kabuto,pedra agua,355,30,80,90,55,45,55,1,0
+141,Kabutops,pedra agua,495,60,115,105,65,70,80,1,0
+142,Aerodactyl,pedra voador,615,80,135,85,70,95,150,1,0
+143,Snorlax,normal,540,160,110,65,65,110,30,1,0
+144,Articuno,gelo voador,580,90,85,100,95,125,85,1,1
+145,Zapdos,eletrico voador,580,90,90,85,125,90,100,1,1
+146,Moltres,fogo voador,580,90,100,90,125,85,90,1,1
+147,Dratini,dragao,300,41,64,45,50,50,50,1,0
+148,Dragonair,dragao,420,61,84,65,70,70,70,1,0
+149,Dragonite,dragao voador,600,91,134,95,100,100,80,1,0
+150,Mewtwo,psiquico,780,106,150,70,194,120,140,1,1
+151,Mew,psiquico,600,100,100,100,100,100,100,1,1
+152,Chikorita,grama,318,45,49,65,49,65,45,2,0
+153,Bayleef,grama,405,60,62,80,63,80,60,2,0
+154,Meganium,grama,525,80,82,100,83,100,80,2,0
+155,Cyndaquil,fogo,309,39,52,43,60,50,65,2,0
+156,Quilava,fogo,405,58,64,58,80,65,80,2,0
+157,Typhlosion,fogo,534,78,84,78,109,85,100,2,0
+158,Totodile,agua,314,50,65,64,44,48,43,2,0
+159,Croconaw,agua,405,65,80,80,59,63,58,2,0
+160,Feraligatr,agua,530,85,105,100,79,83,78,2,0
+161,Sentret,normal,215,35,46,34,35,45,20,2,0
+162,Furret,normal,415,85,76,64,45,55,90,2,0
+163,Hoothoot,normal voador,262,60,30,30,36,56,50,2,0
+164,Noctowl,normal voador,452,100,50,50,86,96,70,2,0
+165,Ledyba,inseto voador,265,40,20,30,40,80,55,2,0
+166,Ledian,inseto voador,390,55,35,50,55,110,85,2,0
+167,Spinarak,inseto veneno,250,40,60,40,40,40,30,2,0
+168,Ariados,inseto veneno,400,70,90,70,60,70,40,2,0
+169,Crobat,veneno voador,535,85,90,80,70,80,130,2,0
+170,Chinchou,agua eletrico,330,75,38,38,56,56,67,2,0
+171,Lanturn,agua eletrico,460,125,58,58,76,76,67,2,0
+172,Pichu,eletrico,205,20,40,15,35,35,60,2,0
+173,Cleffa,fada,218,50,25,28,45,55,15,2,0
+174,Igglybuff,normal fada,210,90,30,15,40,20,15,2,0
+175,Togepi,fada,245,35,20,65,40,65,20,2,0
+176,Togetic,fada voador,405,55,40,85,80,105,40,2,0
+177,Natu,psiquico voador,320,40,50,45,70,45,70,2,0
+178,Xatu,psiquico voador,470,65,75,70,95,70,95,2,0
+179,Mareep,eletrico,280,55,40,40,65,45,35,2,0
+180,Flaaffy,eletrico,365,70,55,55,80,60,45,2,0
+181,Ampharos,eletrico,610,90,95,105,165,110,45,2,0
+182,Bellossom,grama,490,75,80,95,90,100,50,2,0
+183,Marill,agua fada,250,70,20,50,20,50,40,2,0
+184,Azumarill,agua fada,420,100,50,80,60,80,50,2,0
+185,Sudowoodo,pedra,410,70,100,115,30,65,30,2,0
+186,Politoed,agua,500,90,75,75,90,100,70,2,0
+187,Hoppip,grama voador,250,35,35,40,35,55,50,2,0
+188,Skiploom,grama voador,340,55,45,50,45,65,80,2,0
+189,Jumpluff,grama voador,460,75,55,70,55,95,110,2,0
+190,Aipom,normal,360,55,70,55,40,55,85,2,0
+191,Sunkern,grama,180,30,30,30,30,30,30,2,0
+192,Sunflora,grama,425,75,75,55,105,85,30,2,0
+193,Yanma,inseto voador,390,65,65,45,75,45,95,2,0
+194,Wooper,agua terra,210,55,45,45,25,25,15,2,0
+195,Quagsire,agua terra,430,95,85,85,65,65,35,2,0
+196,Espeon,psiquico,525,65,65,60,130,95,110,2,0
+197,Umbreon,sombrio,525,95,65,110,60,130,65,2,0
+198,Murkrow,sombrio voador,405,60,85,42,85,42,91,2,0
+199,Slowking,agua psiquico,490,95,75,80,100,110,30,2,0
+200,Misdreavus,fantasma,435,60,60,60,85,85,85,2,0
+201,Unown,psiquico,336,48,72,48,72,48,48,2,0
+202,Wobbuffet,psiquico,405,190,33,58,33,58,33,2,0
+203,Girafarig,normal psiquico,455,70,80,65,90,65,85,2,0
+204,Pineco,inseto,290,50,65,90,35,35,15,2,0
+205,Forretress,inseto ferro,465,75,90,140,60,60,40,2,0
+206,Dunsparce,normal,415,100,70,70,65,65,45,2,0
+207,Gligar,terra voador,430,65,75,105,35,65,85,2,0
+208,Steelix,ferro terra,610,75,125,230,55,95,30,2,0
+209,Snubbull,fada,300,60,80,50,40,40,30,2,0
+210,Granbull,fada,450,90,120,75,60,60,45,2,0
+211,Qwilfish,agua veneno,440,65,95,85,55,55,85,2,0
+212,Scizor,inseto ferro,600,70,150,140,65,100,75,2,0
+213,Shuckle,inseto pedra,505,20,10,230,10,230,5,2,0
+214,Heracross,inseto lutador,600,80,185,115,40,105,75,2,0
+215,Sneasel,sombrio gelo,430,55,95,55,35,75,115,2,0
+216,Teddiursa,normal,330,60,80,50,50,50,40,2,0
+217,Ursaring,normal,500,90,130,75,75,75,55,2,0
+218,Slugma,fogo,250,40,40,40,70,40,20,2,0
+219,Magcargo,fogo pedra,430,60,50,120,90,80,30,2,0
+220,Swinub,gelo terra,250,50,50,40,30,30,50,2,0
+221,Piloswine,gelo terra,450,100,100,80,60,60,50,2,0
+222,Corsola,agua pedra,410,65,55,95,65,95,35,2,0
+223,Remoraid,agua,300,35,65,35,65,35,65,2,0
+224,Octillery,agua,480,75,105,75,105,75,45,2,0
+225,Delibird,gelo voador,330,45,55,45,65,45,75,2,0
+226,Mantine,agua voador,485,85,40,70,80,140,70,2,0
+227,Skarmory,ferro voador,465,65,80,140,40,70,70,2,0
+228,Houndour,sombrio fogo,330,45,60,30,80,50,65,2,0
+229,Houndoom,sombrio fogo,600,75,90,90,140,90,115,2,0
+230,Kingdra,agua dragao,540,75,95,95,95,95,85,2,0
+231,Phanpy,terra,330,90,60,60,40,40,40,2,0
+232,Donphan,terra,500,90,120,120,60,60,50,2,0
+233,Porygon2,normal,515,85,80,90,105,95,60,2,0
+234,Stantler,normal,465,73,95,62,85,65,85,2,0
+235,Smeargle,normal,250,55,20,35,20,45,75,2,0
+236,Tyrogue,lutador,210,35,35,35,35,35,35,2,0
+237,Hitmontop,lutador,455,50,95,95,35,110,70,2,0
+238,Smoochum,gelo psiquico,305,45,30,15,85,65,65,2,0
+239,Elekid,eletrico,360,45,63,37,65,55,95,2,0
+240,Magby,fogo,365,45,75,37,70,55,83,2,0
+241,Miltank,normal,490,95,80,105,40,70,100,2,0
+242,Blissey,normal,540,255,10,10,75,135,55,2,0
+243,Raikou,eletrico,580,90,85,75,115,100,115,2,1
+244,Entei,fogo,580,115,115,85,90,75,100,2,1
+245,Suicune,agua,580,100,75,115,90,115,85,2,1
+246,Larvitar,pedra terra,300,50,64,50,45,50,41,2,0
+247,Pupitar,pedra terra,410,70,84,70,65,70,51,2,0
+248,Tyranitar,pedra sombrio,700,100,164,150,95,120,71,2,0
+249,Lugia,psiquico voador,680,106,90,130,90,154,110,2,1
+250,Ho-Oh,fogo voador,680,106,130,90,110,154,90,2,1
+251,Celebi,psiquico grama,600,100,100,100,100,100,100,2,1
+252,Treecko,grama,310,40,45,35,65,55,70,3,0
+253,Grovyle,grama,405,50,65,45,85,65,95,3,0
+254,Sceptile,grama,630,70,110,75,145,85,145,3,0
+255,Torchic,fogo,310,45,60,40,70,50,45,3,0
+256,Combusken,fogo lutador,405,60,85,60,85,60,55,3,0
+257,Blaziken,fogo lutador,630,80,160,80,130,80,100,3,0
+258,Mudkip,agua,310,50,70,50,50,50,40,3,0
+259,Marshtomp,agua terra,405,70,85,70,60,70,50,3,0
+260,Swampert,agua terra,635,100,150,110,95,110,70,3,0
+261,Poochyena,sombrio,220,35,55,35,30,30,35,3,0
+262,Mightyena,sombrio,420,70,90,70,60,60,70,3,0
+263,Zigzagoon,normal,240,38,30,41,30,41,60,3,0
+264,Linoone,normal,420,78,70,61,50,61,100,3,0
+265,Wurmple,inseto,195,45,45,35,20,30,20,3,0
+266,Silcoon,inseto,205,50,35,55,25,25,15,3,0
+267,Beautifly,inseto voador,395,60,70,50,100,50,65,3,0
+268,Cascoon,inseto,205,50,35,55,25,25,15,3,0
+269,Dustox,inseto veneno,385,60,50,70,50,90,65,3,0
+270,Lotad,agua grama,220,40,30,30,40,50,30,3,0
+271,Lombre,agua grama,340,60,50,50,60,70,50,3,0
+272,Ludicolo,agua grama,480,80,70,70,90,100,70,3,0
+273,Seedot,grama,220,40,40,50,30,30,30,3,0
+274,Nuzleaf,grama sombrio,340,70,70,40,60,40,60,3,0
+275,Shiftry,grama sombrio,480,90,100,60,90,60,80,3,0
+276,Taillow,normal voador,270,40,55,30,30,30,85,3,0
+277,Swellow,normal voador,455,60,85,60,75,50,125,3,0
+278,Wingull,agua voador,270,40,30,30,55,30,85,3,0
+279,Pelipper,agua voador,440,60,50,100,95,70,65,3,0
+280,Ralts,psiquico fada,198,28,25,25,45,35,40,3,0
+281,Kirlia,psiquico fada,278,38,35,35,65,55,50,3,0
+282,Gardevoir,psiquico fada,618,68,85,65,165,135,100,3,0
+283,Surskit,inseto agua,269,40,30,32,50,52,65,3,0
+284,Masquerain,inseto voador,454,70,60,62,100,82,80,3,0
+285,Shroomish,grama,295,60,40,60,40,60,35,3,0
+286,Breloom,grama lutador,460,60,130,80,60,60,70,3,0
+287,Slakoth,normal,280,60,60,60,35,35,30,3,0
+288,Vigoroth,normal,440,80,80,80,55,55,90,3,0
+289,Slaking,normal,670,150,160,100,95,65,100,3,0
+290,Nincada,inseto terra,266,31,45,90,30,30,40,3,0
+291,Ninjask,inseto voador,456,61,90,45,50,50,160,3,0
+292,Shedinja,inseto fantasma,236,1,90,45,30,30,40,3,0
+293,Whismur,normal,240,64,51,23,51,23,28,3,0
+294,Loudred,normal,360,84,71,43,71,43,48,3,0
+295,Exploud,normal,490,104,91,63,91,73,68,3,0
+296,Makuhita,lutador,237,72,60,30,20,30,25,3,0
+297,Hariyama,lutador,474,144,120,60,40,60,50,3,0
+298,Azurill,normal fada,190,50,20,40,20,40,20,3,0
+299,Nosepass,pedra,375,30,45,135,45,90,30,3,0
+300,Skitty,normal,260,50,45,45,35,35,50,3,0
+301,Delcatty,normal,400,70,65,65,55,55,90,3,0
+302,Sableye,sombrio fantasma,480,50,85,125,85,115,20,3,0
+303,Mawile,ferro fada,480,50,105,125,55,95,50,3,0
+304,Aron,ferro pedra,330,50,70,100,40,40,30,3,0
+305,Lairon,ferro pedra,430,60,90,140,50,50,40,3,0
+306,Aggron,ferro pedra,630,70,140,230,60,80,50,3,0
+307,Meditite,lutador psiquico,280,30,40,55,40,55,60,3,0
+308,Medicham,lutador psiquico,510,60,100,85,80,85,100,3,0
+309,Electrike,eletrico,295,40,45,40,65,40,65,3,0
+310,Manectric,eletrico,575,70,75,80,135,80,135,3,0
+311,Plusle,eletrico,405,60,50,40,85,75,95,3,0
+312,Minun,eletrico,405,60,40,50,75,85,95,3,0
+313,Volbeat,inseto,430,65,73,75,47,85,85,3,0
+314,Illumise,inseto,430,65,47,75,73,85,85,3,0
+315,Roselia,grama veneno,400,50,60,45,100,80,65,3,0
+316,Gulpin,veneno,302,70,43,53,43,53,40,3,0
+317,Swalot,veneno,467,100,73,83,73,83,55,3,0
+318,Carvanha,agua sombrio,305,45,90,20,65,20,65,3,0
+319,Sharpedo,agua sombrio,560,70,140,70,110,65,105,3,0
+320,Wailmer,agua,400,130,70,35,70,35,60,3,0
+321,Wailord,agua,500,170,90,45,90,45,60,3,0
+322,Numel,fogo terra,305,60,60,40,65,45,35,3,0
+323,Camerupt,fogo terra,560,70,120,100,145,105,20,3,0
+324,Torkoal,fogo,470,70,85,140,85,70,20,3,0
+325,Spoink,psiquico,330,60,25,35,70,80,60,3,0
+326,Grumpig,psiquico,470,80,45,65,90,110,80,3,0
+327,Spinda,normal,360,60,60,60,60,60,60,3,0
+328,Trapinch,terra,290,45,100,45,45,45,10,3,0
+329,Vibrava,terra dragao,340,50,70,50,50,50,70,3,0
+330,Flygon,terra dragao,520,80,100,80,80,80,100,3,0
+331,Cacnea,grama,335,50,85,40,85,40,35,3,0
+332,Cacturne,grama sombrio,475,70,115,60,115,60,55,3,0
+333,Swablu,normal voador,310,45,40,60,40,75,50,3,0
+334,Altaria,dragao voador,590,75,110,110,110,105,80,3,0
+335,Zangoose,normal,458,73,115,60,60,60,90,3,0
+336,Seviper,veneno,458,73,100,60,100,60,65,3,0
+337,Lunatone,pedra psiquico,460,90,55,65,95,85,70,3,0
+338,Solrock,pedra psiquico,460,90,95,85,55,65,70,3,0
+339,Barboach,agua terra,288,50,48,43,46,41,60,3,0
+340,Whiscash,agua terra,468,110,78,73,76,71,60,3,0
+341,Corphish,agua,308,43,80,65,50,35,35,3,0
+342,Crawdaunt,agua sombrio,468,63,120,85,90,55,55,3,0
+343,Baltoy,terra psiquico,300,40,40,55,40,70,55,3,0
+344,Claydol,terra psiquico,500,60,70,105,70,120,75,3,0
+345,Lileep,pedra grama,355,66,41,77,61,87,23,3,0
+346,Cradily,pedra grama,495,86,81,97,81,107,43,3,0
+347,Anorith,pedra inseto,355,45,95,50,40,50,75,3,0
+348,Armaldo,pedra inseto,495,75,125,100,70,80,45,3,0
+349,Feebas,agua,200,20,15,20,10,55,80,3,0
+350,Milotic,agua,540,95,60,79,100,125,81,3,0
+351,Castform,normal,420,70,70,70,70,70,70,3,0
+352,Kecleon,normal,440,60,90,70,60,120,40,3,0
+353,Shuppet,fantasma,295,44,75,35,63,33,45,3,0
+354,Banette,fantasma,555,64,165,75,93,83,75,3,0
+355,Duskull,fantasma,295,20,40,90,30,90,25,3,0
+356,Dusclops,fantasma,455,40,70,130,60,130,25,3,0
+357,Tropius,grama voador,460,99,68,83,72,87,51,3,0
+358,Chimecho,psiquico,455,75,50,80,95,90,65,3,0
+359,Absol,sombrio,565,65,150,60,115,60,115,3,0
+360,Wynaut,psiquico,260,95,23,48,23,48,23,3,0
+361,Snorunt,gelo,300,50,50,50,50,50,50,3,0
+362,Glalie,gelo,580,80,120,80,120,80,100,3,0
+363,Spheal,gelo agua,290,70,40,50,55,50,25,3,0
+364,Sealeo,gelo agua,410,90,60,70,75,70,45,3,0
+365,Walrein,gelo agua,530,110,80,90,95,90,65,3,0
+366,Clamperl,agua,345,35,64,85,74,55,32,3,0
+367,Huntail,agua,485,55,104,105,94,75,52,3,0
+368,Gorebyss,agua,485,55,84,105,114,75,52,3,0
+369,Relicanth,agua pedra,485,100,90,130,45,65,55,3,0
+370,Luvdisc,agua,330,43,30,55,40,65,97,3,0
+371,Bagon,dragao,300,45,75,60,40,30,50,3,0
+372,Shelgon,dragao,420,65,95,100,60,50,50,3,0
+373,Salamence,dragao voador,700,95,145,130,120,90,120,3,0
+374,Beldum,ferro psiquico,300,40,55,80,35,60,30,3,0
+375,Metang,ferro psiquico,420,60,75,100,55,80,50,3,0
+376,Metagross,ferro psiquico,700,80,145,150,105,110,110,3,0
+377,Regirock,pedra,580,80,100,200,50,100,50,3,1
+378,Regice,gelo,580,80,50,100,100,200,50,3,1
+379,Registeel,ferro,580,80,75,150,75,150,50,3,1
+380,Latias,dragao psiquico,700,80,100,120,140,150,110,3,1
+381,Latios,dragao psiquico,700,80,130,100,160,120,110,3,1
+382,Kyogre,agua,770,100,150,90,180,160,90,3,1
+383,Groudon,terra,770,100,180,160,150,90,90,3,1
+384,Rayquaza,dragao voador,780,105,180,100,180,100,115,3,1
+385,Jirachi,ferro psiquico,600,100,100,100,100,100,100,3,1
+386,Deoxys,psiquico,600,50,95,90,95,90,180,3,1
+387,Turtwig,grama,318,55,68,64,45,55,31,4,0
+388,Grotle,grama,405,75,89,85,55,65,36,4,0
+389,Torterra,grama terra,525,95,109,105,75,85,56,4,0
+390,Chimchar,fogo,309,44,58,44,58,44,61,4,0
+391,Monferno,fogo lutador,405,64,78,52,78,52,81,4,0
+392,Infernape,fogo lutador,534,76,104,71,104,71,108,4,0
+393,Piplup,agua,314,53,51,53,61,56,40,4,0
+394,Prinplup,agua,405,64,66,68,81,76,50,4,0
+395,Empoleon,agua ferro,530,84,86,88,111,101,60,4,0
+396,Starly,normal voador,245,40,55,30,30,30,60,4,0
+397,Staravia,normal voador,340,55,75,50,40,40,80,4,0
+398,Staraptor,normal voador,485,85,120,70,50,60,100,4,0
+399,Bidoof,normal,250,59,45,40,35,40,31,4,0
+400,Bibarel,normal agua,410,79,85,60,55,60,71,4,0
+401,Kricketot,inseto,194,37,25,41,25,41,25,4,0
+402,Kricketune,inseto,384,77,85,51,55,51,65,4,0
+403,Shinx,eletrico,263,45,65,34,40,34,45,4,0
+404,Luxio,eletrico,363,60,85,49,60,49,60,4,0
+405,Luxray,eletrico,523,80,120,79,95,79,70,4,0
+406,Budew,grama veneno,280,40,30,35,50,70,55,4,0
+407,Roserade,grama veneno,515,60,70,65,125,105,90,4,0
+408,Cranidos,pedra,350,67,125,40,30,30,58,4,0
+409,Rampardos,pedra,495,97,165,60,65,50,58,4,0
+410,Shieldon,pedra ferro,350,30,42,118,42,88,30,4,0
+411,Bastiodon,pedra ferro,495,60,52,168,47,138,30,4,0
+412,Burmy,inseto,224,40,29,45,29,45,36,4,0
+413,Wormadam,inseto grama,424,60,69,95,69,95,36,4,0
+414,Mothim,inseto voador,424,70,94,50,94,50,66,4,0
+415,Combee,inseto voador,244,30,30,42,30,42,70,4,0
+416,Vespiquen,inseto voador,474,70,80,102,80,102,40,4,0
+417,Pachirisu,eletrico,405,60,45,70,45,90,95,4,0
+418,Buizel,agua,330,55,65,35,60,30,85,4,0
+419,Floatzel,agua,495,85,105,55,85,50,115,4,0
+420,Cherubi,grama,275,45,35,45,62,53,35,4,0
+421,Cherrim,grama,450,70,60,70,87,78,85,4,0
+422,Shellos,agua,325,76,48,48,57,62,34,4,0
+423,Gastrodon,agua terra,475,111,83,68,92,82,39,4,0
+424,Ambipom,normal,482,75,100,66,60,66,115,4,0
+425,Drifloon,fantasma voador,348,90,50,34,60,44,70,4,0
+426,Drifblim,fantasma voador,498,150,80,44,90,54,80,4,0
+427,Buneary,normal,350,55,66,44,44,56,85,4,0
+428,Lopunny,normal,580,65,136,94,54,96,135,4,0
+429,Mismagius,fantasma,495,60,60,60,105,105,105,4,0
+430,Honchkrow,sombrio voador,505,100,125,52,105,52,71,4,0
+431,Glameow,normal,310,49,55,42,42,37,85,4,0
+432,Purugly,normal,452,71,82,64,64,59,112,4,0
+433,Chingling,psiquico,285,45,30,50,65,50,45,4,0
+434,Stunky,veneno sombrio,329,63,63,47,41,41,74,4,0
+435,Skuntank,veneno sombrio,479,103,93,67,71,61,84,4,0
+436,Bronzor,ferro psiquico,300,57,24,86,24,86,23,4,0
+437,Bronzong,ferro psiquico,500,67,89,116,79,116,33,4,0
+438,Bonsly,pedra,290,50,80,95,10,45,10,4,0
+439,Mime Jr.,psiquico fada,310,20,25,45,70,90,60,4,0
+440,Happiny,normal,220,100,5,5,15,65,30,4,0
+441,Chatot,normal voador,411,76,65,45,92,42,91,4,0
+442,Spiritomb,fantasma sombrio,485,50,92,108,92,108,35,4,0
+443,Gible,dragao terra,300,58,70,45,40,45,42,4,0
+444,Gabite,dragao terra,410,68,90,65,50,55,82,4,0
+445,Garchomp,dragao terra,700,108,170,115,120,95,92,4,0
+446,Munchlax,normal,390,135,85,40,40,85,5,4,0
+447,Riolu,lutador,285,40,70,40,35,40,60,4,0
+448,Lucario,lutador ferro,625,70,145,88,140,70,112,4,0
+449,Hippopotas,terra,330,68,72,78,38,42,32,4,0
+450,Hippowdon,terra,525,108,112,118,68,72,47,4,0
+451,Skorupi,veneno inseto,330,40,50,90,30,55,65,4,0
+452,Drapion,veneno sombrio,500,70,90,110,60,75,95,4,0
+453,Croagunk,veneno lutador,300,48,61,40,61,40,50,4,0
+454,Toxicroak,veneno lutador,490,83,106,65,86,65,85,4,0
+455,Carnivine,grama,454,74,100,72,90,72,46,4,0
+456,Finneon,agua,330,49,49,56,49,61,66,4,0
+457,Lumineon,agua,460,69,69,76,69,86,91,4,0
+458,Mantyke,agua voador,345,45,20,50,60,120,50,4,0
+459,Snover,grama gelo,334,60,62,50,62,60,40,4,0
+460,Abomasnow,grama gelo,594,90,132,105,132,105,30,4,0
+461,Weavile,sombrio gelo,510,70,120,65,45,85,125,4,0
+462,Magnezone,eletrico ferro,535,70,70,115,130,90,60,4,0
+463,Lickilicky,normal,515,110,85,95,80,95,50,4,0
+464,Rhyperior,terra pedra,535,115,140,130,55,55,40,4,0
+465,Tangrowth,grama,535,100,100,125,110,50,50,4,0
+466,Electivire,eletrico,540,75,123,67,95,85,95,4,0
+467,Magmortar,fogo,540,75,95,67,125,95,83,4,0
+468,Togekiss,fada voador,545,85,50,95,120,115,80,4,0
+469,Yanmega,inseto voador,515,86,76,86,116,56,95,4,0
+470,Leafeon,grama,525,65,110,130,60,65,95,4,0
+471,Glaceon,gelo,525,65,60,110,130,95,65,4,0
+472,Gliscor,terra voador,510,75,95,125,45,75,95,4,0
+473,Mamoswine,gelo terra,530,110,130,80,70,60,80,4,0
+474,Porygon-Z,normal,535,85,80,70,135,75,90,4,0
+475,Gallade,psiquico lutador,618,68,165,95,65,115,110,4,0
+476,Probopass,pedra ferro,525,60,55,145,75,150,40,4,0
+477,Dusknoir,fantasma,525,45,100,135,65,135,45,4,0
+478,Froslass,gelo fantasma,480,70,80,70,80,70,110,4,0
+479,Rotom,eletrico fantasma,520,50,65,107,105,107,86,4,0
+480,Uxie,psiquico,580,75,75,130,75,130,95,4,1
+481,Mesprit,psiquico,580,80,105,105,105,105,80,4,1
+482,Azelf,psiquico,580,75,125,70,125,70,115,4,1
+483,Dialga,ferro dragao,680,100,120,120,150,100,90,4,1
+484,Palkia,agua dragao,680,90,120,100,150,120,100,4,1
+485,Heatran,fogo ferro,600,91,90,106,130,106,77,4,1
+486,Regigigas,normal,670,110,160,110,80,110,100,4,1
+487,Giratina,fantasma dragao,680,150,120,100,120,100,90,4,1
+488,Cresselia,psiquico,600,120,70,120,75,130,85,4,1
+489,Phione,agua,480,80,80,80,80,80,80,4,0
+490,Manaphy,agua,600,100,100,100,100,100,100,4,1
+491,Darkrai,sombrio,600,70,90,90,135,90,125,4,1
+492,Shaymin,grama grama,600,100,103,75,120,75,127,4,1
+493,Arceus,normal,720,120,120,120,120,120,120,4,1
+494,Victini,psiquico fogo,600,100,100,100,100,100,100,5,1
+495,Snivy,grama,308,45,45,55,45,55,63,5,0
+496,Servine,grama,413,60,60,75,60,75,83,5,0
+497,Serperior,grama,528,75,75,95,75,95,113,5,0
+498,Tepig,fogo,308,65,63,45,45,45,45,5,0
+499,Pignite,fogo lutador,418,90,93,55,70,55,55,5,0
+500,Emboar,fogo lutador,528,110,123,65,100,65,65,5,0
+501,Oshawott,agua,308,55,55,45,63,45,45,5,0
+502,Dewott,agua,413,75,75,60,83,60,60,5,0
+503,Samurott,agua,528,95,100,85,108,70,70,5,0
+504,Patrat,normal,255,45,55,39,35,39,42,5,0
+505,Watchog,normal,420,60,85,69,60,69,77,5,0
+506,Lillipup,normal,275,45,60,45,25,45,55,5,0
+507,Herdier,normal,370,65,80,65,35,65,60,5,0
+508,Stoutland,normal,500,85,110,90,45,90,80,5,0
+509,Purrloin,sombrio,281,41,50,37,50,37,66,5,0
+510,Liepard,sombrio,446,64,88,50,88,50,106,5,0
+511,Pansage,grama,316,50,53,48,53,48,64,5,0
+512,Simisage,grama,498,75,98,63,98,63,101,5,0
+513,Pansear,fogo,316,50,53,48,53,48,64,5,0
+514,Simisear,fogo,498,75,98,63,98,63,101,5,0
+515,Panpour,agua,316,50,53,48,53,48,64,5,0
+516,Simipour,agua,498,75,98,63,98,63,101,5,0
+517,Munna,psiquico,292,76,25,45,67,55,24,5,0
+518,Musharna,psiquico,487,116,55,85,107,95,29,5,0
+519,Pidove,normal voador,264,50,55,50,36,30,43,5,0
+520,Tranquill,normal voador,358,62,77,62,50,42,65,5,0
+521,Unfezant,normal voador,488,80,115,80,65,55,93,5,0
+522,Blitzle,eletrico,295,45,60,32,50,32,76,5,0
+523,Zebstrika,eletrico,497,75,100,63,80,63,116,5,0
+524,Roggenrola,pedra,280,55,75,85,25,25,15,5,0
+525,Boldore,pedra,390,70,105,105,50,40,20,5,0
+526,Gigalith,pedra,515,85,135,130,60,80,25,5,0
+527,Woobat,psiquico voador,323,65,45,43,55,43,72,5,0
+528,Swoobat,psiquico voador,425,67,57,55,77,55,114,5,0
+529,Drilbur,terra,328,60,85,40,30,45,68,5,0
+530,Excadrill,terra ferro,508,110,135,60,50,65,88,5,0
+531,Audino,normal,545,103,60,126,80,126,50,5,0
+532,Timburr,lutador,305,75,80,55,25,35,35,5,0
+533,Gurdurr,lutador,405,85,105,85,40,50,40,5,0
+534,Conkeldurr,lutador,505,105,140,95,55,65,45,5,0
+535,Tympole,agua,294,50,50,40,50,40,64,5,0
+536,Palpitoad,agua terra,384,75,65,55,65,55,69,5,0
+537,Seismitoad,agua terra,509,105,95,75,85,75,74,5,0
+538,Throh,lutador,465,120,100,85,30,85,45,5,0
+539,Sawk,lutador,465,75,125,75,30,75,85,5,0
+540,Sewaddle,inseto grama,310,45,53,70,40,60,42,5,0
+541,Swadloon,inseto grama,380,55,63,90,50,80,42,5,0
+542,Leavanny,inseto grama,500,75,103,80,70,80,92,5,0
+543,Venipede,inseto veneno,260,30,45,59,30,39,57,5,0
+544,Whirlipede,inseto veneno,360,40,55,99,40,79,47,5,0
+545,Scolipede,inseto veneno,485,60,100,89,55,69,112,5,0
+546,Cottonee,grama fada,280,40,27,60,37,50,66,5,0
+547,Whimsicott,grama fada,480,60,67,85,77,75,116,5,0
+548,Petilil,grama,280,45,35,50,70,50,30,5,0
+549,Lilligant,grama,480,70,60,75,110,75,90,5,0
+550,Basculin,agua,460,70,92,65,80,55,98,5,0
+551,Sandile,terra sombrio,292,50,72,35,35,35,65,5,0
+552,Krokorok,terra sombrio,351,60,82,45,45,45,74,5,0
+553,Krookodile,terra sombrio,519,95,117,80,65,70,92,5,0
+554,Darumaka,fogo,315,70,90,45,15,45,50,5,0
+555,Darmanitan,fogo fogo,540,105,30,105,140,105,55,5,0
+556,Maractus,grama,461,75,86,67,106,67,60,5,0
+557,Dwebble,inseto pedra,325,50,65,85,35,35,55,5,0
+558,Crustle,inseto pedra,485,70,105,125,65,75,45,5,0
+559,Scraggy,sombrio lutador,348,50,75,70,35,70,48,5,0
+560,Scrafty,sombrio lutador,488,65,90,115,45,115,58,5,0
+561,Sigilyph,psiquico voador,490,72,58,80,103,80,97,5,0
+562,Yamask,fantasma,303,38,30,85,55,65,30,5,0
+563,Cofagrigus,fantasma,483,58,50,145,95,105,30,5,0
+564,Tirtouga,agua pedra,355,54,78,103,53,45,22,5,0
+565,Carracosta,agua pedra,495,74,108,133,83,65,32,5,0
+566,Archen,pedra voador,401,55,112,45,74,45,70,5,0
+567,Archeops,pedra voador,567,75,140,65,112,65,110,5,0
+568,Trubbish,veneno,329,50,50,62,40,62,65,5,0
+569,Garbodor,veneno,474,80,95,82,60,82,75,5,0
+570,Zorua,sombrio,330,40,65,40,80,40,65,5,0
+571,Zoroark,sombrio,510,60,105,60,120,60,105,5,0
+572,Minccino,normal,300,55,50,40,40,40,75,5,0
+573,Cinccino,normal,470,75,95,60,65,60,115,5,0
+574,Gothita,psiquico,290,45,30,50,55,65,45,5,0
+575,Gothorita,psiquico,390,60,45,70,75,85,55,5,0
+576,Gothitelle,psiquico,490,70,55,95,95,110,65,5,0
+577,Solosis,psiquico,290,45,30,40,105,50,20,5,0
+578,Duosion,psiquico,370,65,40,50,125,60,30,5,0
+579,Reuniclus,psiquico,490,110,65,75,125,85,30,5,0
+580,Ducklett,agua voador,305,62,44,50,44,50,55,5,0
+581,Swanna,agua voador,473,75,87,63,87,63,98,5,0
+582,Vanillite,gelo,305,36,50,50,65,60,44,5,0
+583,Vanillish,gelo,395,51,65,65,80,75,59,5,0
+584,Vanilluxe,gelo,535,71,95,85,110,95,79,5,0
+585,Deerling,normal grama,335,60,60,50,40,50,75,5,0
+586,Sawsbuck,normal grama,475,80,100,70,60,70,95,5,0
+587,Emolga,eletrico voador,428,55,75,60,75,60,103,5,0
+588,Karrablast,inseto,315,50,75,45,40,45,60,5,0
+589,Escavalier,inseto ferro,495,70,135,105,60,105,20,5,0
+590,Foongus,grama veneno,294,69,55,45,55,55,15,5,0
+591,Amoonguss,grama veneno,464,114,85,70,85,80,30,5,0
+592,Frillish,agua fantasma,335,55,40,50,65,85,40,5,0
+593,Jellicent,agua fantasma,480,100,60,70,85,105,60,5,0
+594,Alomomola,agua,470,165,75,80,40,45,65,5,0
+595,Joltik,inseto eletrico,319,50,47,50,57,50,65,5,0
+596,Galvantula,inseto eletrico,472,70,77,60,97,60,108,5,0
+597,Ferroseed,grama ferro,305,44,50,91,24,86,10,5,0
+598,Ferrothorn,grama ferro,489,74,94,131,54,116,20,5,0
+599,Klink,ferro,300,40,55,70,45,60,30,5,0
+600,Klang,ferro,440,60,80,95,70,85,50,5,0
+601,Klinklang,ferro,520,60,100,115,70,85,90,5,0
+602,Tynamo,eletrico,275,35,55,40,45,40,60,5,0
+603,Eelektrik,eletrico,405,65,85,70,75,70,40,5,0
+604,Eelektross,eletrico,515,85,115,80,105,80,50,5,0
+605,Elgyem,psiquico,335,55,55,55,85,55,30,5,0
+606,Beheeyem,psiquico,485,75,75,75,125,95,40,5,0
+607,Litwick,fantasma fogo,275,50,30,55,65,55,20,5,0
+608,Lampent,fantasma fogo,370,60,40,60,95,60,55,5,0
+609,Chandelure,fantasma fogo,520,60,55,90,145,90,80,5,0
+610,Axew,dragao,320,46,87,60,30,40,57,5,0
+611,Fraxure,dragao,410,66,117,70,40,50,67,5,0
+612,Haxorus,dragao,540,76,147,90,60,70,97,5,0
+613,Cubchoo,gelo,305,55,70,40,60,40,40,5,0
+614,Beartic,gelo,505,95,130,80,70,80,50,5,0
+615,Cryogonal,gelo,515,80,50,50,95,135,105,5,0
+616,Shelmet,inseto,305,50,40,85,40,65,25,5,0
+617,Accelgor,inseto,495,80,70,40,100,60,145,5,0
+618,Stunfisk,terra eletrico,471,109,66,84,81,99,32,5,0
+619,Mienfoo,lutador,350,45,85,50,55,50,65,5,0
+620,Mienshao,lutador,510,65,125,60,95,60,105,5,0
+621,Druddigon,dragao,485,77,120,90,60,90,48,5,0
+622,Golett,terra fantasma,303,59,74,50,35,50,35,5,0
+623,Golurk,terra fantasma,483,89,124,80,55,80,55,5,0
+624,Pawniard,sombrio ferro,340,45,85,70,40,40,60,5,0
+625,Bisharp,sombrio ferro,490,65,125,100,60,70,70,5,0
+626,Bouffalant,normal,490,95,110,95,40,95,55,5,0
+627,Rufflet,normal voador,350,70,83,50,37,50,60,5,0
+628,Braviary,normal voador,510,100,123,75,57,75,80,5,0
+629,Vullaby,sombrio voador,370,70,55,75,45,65,60,5,0
+630,Mandibuzz,sombrio voador,510,110,65,105,55,95,80,5,0
+631,Heatmor,fogo,484,85,97,66,105,66,65,5,0
+632,Durant,inseto ferro,484,58,109,112,48,48,109,5,0
+633,Deino,sombrio dragao,300,52,65,50,45,50,38,5,0
+634,Zweilous,sombrio dragao,420,72,85,70,65,70,58,5,0
+635,Hydreigon,sombrio dragao,600,92,105,90,125,90,98,5,0
+636,Larvesta,inseto fogo,360,55,85,55,50,55,60,5,0
+637,Volcarona,inseto fogo,550,85,60,65,135,105,100,5,0
+638,Cobalion,ferro lutador,580,91,90,129,90,72,108,5,1
+639,Terrakion,pedra lutador,580,91,129,90,72,90,108,5,1
+640,Virizion,grama lutador,580,91,90,72,90,129,108,5,1
+641,Tornadus,voador,580,79,100,80,110,90,121,5,1
+642,Thundurus,eletrico voador,580,79,105,70,145,80,101,5,1
+643,Reshiram,dragao fogo,680,100,120,100,150,120,90,5,1
+644,Zekrom,dragao eletrico,680,100,150,120,120,100,90,5,1
+645,Landorus,terra voador,600,89,145,90,105,80,91,5,1
+646,Kyurem,dragao gelo,700,125,120,90,170,100,95,5,1
+647,Keldeo,agua lutador,580,91,72,90,129,90,108,5,1
+648,Meloetta,normal psiquico,600,100,128,90,77,77,128,5,1
+649,Genesect,inseto ferro,600,71,120,95,120,95,99,5,1
+650,Chespin,grama,313,56,61,65,48,45,38,6,0
+651,Quilladin,grama,405,61,78,95,56,58,57,6,0
+652,Chesnaught,grama lutador,530,88,107,122,74,75,64,6,0
+653,Fennekin,fogo,307,40,45,40,62,60,60,6,0
+654,Braixen,fogo,409,59,59,58,90,70,73,6,0
+655,Delphox,fogo psiquico,534,75,69,72,114,100,104,6,0
+656,Froakie,agua,314,41,56,40,62,44,71,6,0
+657,Frogadier,agua,405,54,63,52,83,56,97,6,0
+658,Greninja,agua sombrio,640,72,145,67,153,71,132,6,0
+659,Bunnelby,normal,237,38,36,38,32,36,57,6,0
+660,Diggersby,normal terra,423,85,56,77,50,77,78,6,0
+661,Fletchling,normal voador,278,45,50,43,40,38,62,6,0
+662,Fletchinder,fogo voador,382,62,73,55,56,52,84,6,0
+663,Talonflame,fogo voador,499,78,81,71,74,69,126,6,0
+664,Scatterbug,inseto,200,38,35,40,27,25,35,6,0
+665,Spewpa,inseto,213,45,22,60,27,30,29,6,0
+666,Vivillon,inseto voador,411,80,52,50,90,50,89,6,0
+667,Litleo,fogo normal,369,62,50,58,73,54,72,6,0
+668,Pyroar,fogo normal,507,86,68,72,109,66,106,6,0
+669,Flabebe,fada,303,44,38,39,61,79,42,6,0
+670,Floette,fada,551,74,65,67,125,128,92,6,0
+671,Florges,fada,552,78,65,68,112,154,75,6,0
+672,Skiddo,grama,350,66,65,48,62,57,52,6,0
+673,Gogoat,grama,531,123,100,62,97,81,68,6,0
+674,Pancham,lutador,348,67,82,62,46,48,43,6,0
+675,Pangoro,lutador sombrio,495,95,124,78,69,71,58,6,0
+676,Furfrou,normal,472,75,80,60,65,90,102,6,0
+677,Espurr,psiquico,355,62,48,54,63,60,68,6,0
+678,Meowstic,psiquico,466,74,48,76,83,81,104,6,0
+679,Honedge,ferro fantasma,325,45,80,100,35,37,28,6,0
+680,Doublade,ferro fantasma,448,59,110,150,45,49,35,6,0
+681,Aegislash,ferro fantasma,520,60,150,50,150,50,60,6,0
+682,Spritzee,fada,341,78,52,60,63,65,23,6,0
+683,Aromatisse,fada,462,101,72,72,99,89,29,6,0
+684,Swirlix,fada,341,62,48,66,59,57,49,6,0
+685,Slurpuff,fada,480,82,80,86,85,75,72,6,0
+686,Inkay,sombrio psiquico,288,53,54,53,37,46,45,6,0
+687,Malamar,sombrio psiquico,482,86,92,88,68,75,73,6,0
+688,Binacle,pedra agua,306,42,52,67,39,56,50,6,0
+689,Barbaracle,pedra agua,500,72,105,115,54,86,68,6,0
+690,Skrelp,veneno agua,320,50,60,60,60,60,30,6,0
+691,Dragalge,veneno dragao,494,65,75,90,97,123,44,6,0
+692,Clauncher,agua,330,50,53,62,58,63,44,6,0
+693,Clawitzer,agua,500,71,73,88,120,89,59,6,0
+694,Helioptile,eletrico normal,289,44,38,33,61,43,70,6,0
+695,Heliolisk,eletrico normal,481,62,55,52,109,94,109,6,0
+696,Tyrunt,pedra dragao,362,58,89,77,45,45,48,6,0
+697,Tyrantrum,pedra dragao,521,82,121,119,69,59,71,6,0
+698,Amaura,pedra gelo,362,77,59,50,67,63,46,6,0
+699,Aurorus,pedra gelo,521,123,77,72,99,92,58,6,0
+700,Sylveon,fada,525,95,65,65,110,130,60,6,0
+701,Hawlucha,lutador voador,500,78,92,75,74,63,118,6,0
+702,Dedenne,eletrico fada,431,67,58,57,81,67,101,6,0
+703,Carbink,pedra fada,500,50,50,150,50,150,50,6,0
+704,Goomy,dragao,300,45,50,35,55,75,40,6,0
+705,Sliggoo,dragao,452,68,75,53,83,113,60,6,0
+706,Goodra,dragao,600,90,100,70,110,150,80,6,0
+707,Klefki,ferro fada,470,57,80,91,80,87,75,6,0
+708,Phantump,fantasma grama,309,43,70,48,50,60,38,6,0
+709,Trevenant,fantasma grama,474,85,110,76,65,82,56,6,0
+710,Pumpkaboo,fantasma grama,335,59,66,70,44,55,41,6,0
+711,Gourgeist,fantasma grama,494,85,100,122,58,75,54,6,0
+712,Bergmite,gelo,304,55,69,85,32,35,28,6,0
+713,Avalugg,gelo,514,95,117,184,44,46,28,6,0
+714,Noibat,voador dragao,245,40,30,35,45,40,55,6,0
+715,Noivern,voador dragao,535,85,70,80,97,80,123,6,0
+716,Xerneas,fada,680,126,131,95,131,98,99,6,1
+717,Yveltal,sombrio voador,680,126,131,95,131,98,99,6,1
+718,Zygarde,dragao terra,708,216,100,121,91,95,85,6,1
+719,Diancie,pedra fada,700,50,160,110,160,110,110,6,1
+720,Hoopa,psiquico fantasma,680,80,160,60,170,130,80,6,1
+721,Volcanion,fogo agua,600,80,110,120,130,90,70,6,1
+722,Rowlet,grama voador,320,68,55,55,50,50,42,7,0
+723,Dartrix,grama voador,420,78,75,75,70,70,52,7,0
+724,Decidueye,grama fantasma,530,78,107,75,100,100,70,7,0
+725,Litten,fogo,320,45,65,40,60,40,70,7,0
+726,Torracat,fogo,420,65,85,50,80,50,90,7,0
+727,Incineroar,fogo sombrio,530,95,115,90,80,90,60,7,0
+728,Popplio,agua,320,50,54,54,66,56,40,7,0
+729,Brionne,agua,420,60,69,69,91,81,50,7,0
+730,Primarina,agua fada,530,80,74,74,126,116,60,7,0
+731,Pikipek,normal voador,265,35,75,30,30,30,65,7,0
+732,Trumbeak,normal voador,355,55,85,50,40,50,75,7,0
+733,Toucannon,normal voador,485,80,120,75,75,75,60,7,0
+734,Yungoos,normal,253,48,70,30,30,30,45,7,0
+735,Gumshoos,normal,418,88,110,60,55,60,45,7,0
+736,Grubbin,inseto,300,47,62,45,55,45,46,7,0
+737,Charjabug,inseto eletrico,400,57,82,95,55,75,36,7,0
+738,Vikavolt,inseto eletrico,500,77,70,90,145,75,43,7,0
+739,Crabrawler,lutador,338,47,82,57,42,47,63,7,0
+740,Crabominable,lutador gelo,478,97,132,77,62,67,43,7,0
+741,Oricorio,fogo voador,476,75,70,70,98,70,93,7,0
+742,Cutiefly,inseto fada,304,40,45,40,55,40,84,7,0
+743,Ribombee,inseto fada,464,60,55,60,95,70,124,7,0
+744,Rockruff,pedra,280,45,65,40,30,40,60,7,0
+745,Lycanroc,pedra,487,85,115,75,55,75,82,7,0
+746,Wishiwashi,agua,620,45,140,130,140,135,30,7,0
+747,Mareanie,veneno agua,305,50,53,62,43,52,45,7,0
+748,Toxapex,veneno agua,495,50,63,152,53,142,35,7,0
+749,Mudbray,terra,385,70,100,70,45,55,45,7,0
+750,Mudsdale,terra,500,100,125,100,55,85,35,7,0
+751,Dewpider,agua inseto,269,38,40,52,40,72,27,7,0
+752,Araquanid,agua inseto,454,68,70,92,50,132,42,7,0
+753,Fomantis,grama,250,40,55,35,50,35,35,7,0
+754,Lurantis,grama,480,70,105,90,80,90,45,7,0
+755,Morelull,grama fada,285,40,35,55,65,75,15,7,0
+756,Shiinotic,grama fada,405,60,45,80,90,100,30,7,0
+757,Salandit,veneno fogo,320,48,44,40,71,40,77,7,0
+758,Salazzle,veneno fogo,480,68,64,60,111,60,117,7,0
+759,Stufful,normal lutador,340,70,75,50,45,50,50,7,0
+760,Bewear,normal lutador,500,120,125,80,55,60,60,7,0
+761,Bounsweet,grama,210,42,30,38,30,38,32,7,0
+762,Steenee,grama,290,52,40,48,40,48,62,7,0
+763,Tsareena,grama,510,72,120,98,50,98,72,7,0
+764,Comfey,fada,485,51,52,90,82,110,100,7,0
+765,Oranguru,normal psiquico,490,90,60,80,90,110,60,7,0
+766,Passimian,lutador,490,100,120,90,40,60,80,7,0
+767,Wimpod,inseto agua,230,25,35,40,20,30,80,7,0
+768,Golisopod,inseto agua,530,75,125,140,60,90,40,7,0
+769,Sandygast,fantasma terra,320,55,55,80,70,45,15,7,0
+770,Palossand,fantasma terra,480,85,75,110,100,75,35,7,0
+771,Pyukumuku,agua,410,55,60,130,30,130,5,7,0
+772,Type: Null,normal,534,95,95,95,95,95,59,7,0
+773,Silvally,normal,570,95,95,95,95,95,95,7,0
+774,Minior,pedra voador,500,60,100,60,100,60,120,7,0
+775,Komala,normal,480,65,115,65,75,95,65,7,0
+776,Turtonator,fogo dragao,485,60,78,135,91,85,36,7,0
+777,Togedemaru,eletrico ferro,435,65,98,63,40,73,96,7,0
+778,Mimikyu,fantasma fada,476,55,90,80,50,105,96,7,0
+779,Bruxish,agua psiquico,475,68,105,70,70,70,92,7,0
+780,Drampa,normal dragao,485,78,60,85,135,91,36,7,0
+781,Dhelmise,fantasma grama,517,70,131,100,86,90,40,7,0
+782,Jangmo-o,dragao,300,45,55,65,45,45,45,7,0
+783,Hakamo-o,dragao lutador,420,55,75,90,65,70,65,7,0
+784,Kommo-o,dragao lutador,600,75,110,125,100,105,85,7,0
+785,Tapu Koko,eletrico fada,570,70,115,85,95,75,130,7,1
+786,Tapu Lele,psiquico fada,570,70,85,75,130,115,95,7,1
+787,Tapu Bulu,grama fada,570,70,130,115,85,95,75,7,1
+788,Tapu Fini,agua fada,570,70,75,115,95,130,85,7,1
+789,Cosmog,psiquico,200,43,29,31,29,31,37,7,1
+790,Cosmoem,psiquico,400,43,29,131,29,131,37,7,1
+791,Solgaleo,psiquico ferro,680,137,137,107,113,89,97,7,1
+792,Lunala,psiquico fantasma,680,137,113,89,137,107,97,7,1
+793,Nihilego,pedra veneno,570,109,53,47,127,131,103,7,1
+794,Buzzwole,inseto lutador,570,107,139,139,53,53,79,7,1
+795,Pheromosa,inseto lutador,570,71,137,37,137,37,151,7,1
+796,Xurkitree,eletrico,570,83,89,71,173,71,83,7,1
+797,Celesteela,ferro voador,570,97,101,103,107,101,61,7,1
+798,Kartana,grama ferro,570,59,181,131,59,31,109,7,1
+799,Guzzlord,sombrio dragao,570,223,101,53,97,53,43,7,1
+800,Necrozma,psiquico,600,97,107,101,127,89,79,7,1
+801,Magearna,ferro fada,600,80,95,115,130,115,65,7,1
